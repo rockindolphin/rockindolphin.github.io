@@ -201,6 +201,7 @@ th {
 }
 body {
   background: url('../images/bg.jpg');
+  background-attachment: fixed;
 }
 .wrapper {
   width: 100%;
